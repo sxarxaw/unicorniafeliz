@@ -15,3 +15,6 @@ El propósito de este repositorio fue para realizar pruebas en clase de Entornos
 `git add .` Añadimos los cambios para comitearlos.
 
 `git commit` Comiteamos los cambios.
+
+> [!NOTE]
+> No añada ficheros importantes en este repositorio.
