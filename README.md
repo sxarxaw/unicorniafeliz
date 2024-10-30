@@ -11,5 +11,7 @@ El propósito de este repositorio fue para realizar pruebas en clase de Entornos
 
 ## Comandos utilizados
 `git status` Con este comando nombramos los cambios que no han sido comiteados.
+
 `git add .` Añadimos los cambios para comitearlos.
-`git commit` Comiteamos los cambios
+
+`git commit` Comiteamos los cambios.
